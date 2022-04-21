@@ -1,5 +1,5 @@
 import axios from "axios";
-const apiUrl = "http://todo--mern--app.herokuapp.com/api/tasks";
+const apiUrl = "http://todo--mern--app1.herokuapp.com/api/tasks";
 
 export function getTasks() {
   return axios.get(apiUrl);
