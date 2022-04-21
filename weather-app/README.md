@@ -1,1 +1,1 @@
-![image info](./public/1.png)
+![image info](Images/1.png)
