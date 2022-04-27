@@ -1,3 +1,3 @@
-# Getting Started with Create React App
+# Counter App
 
 ![image info](public/demo.png)
