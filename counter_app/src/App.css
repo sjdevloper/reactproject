@@ -1,0 +1,20 @@
+.box {
+  width: 150px;
+  height: 120px;
+  border: 5px double black;
+}
+
+span {
+  font-size: 60px;
+  font-weight: 700px;
+}
+
+.header-color {
+  color: white;
+  background-color: blue;
+  border-radius: 5px;
+}
+
+.clickEffect:active {
+  transform: translateY(2px);
+}
