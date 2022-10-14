@@ -1,3 +1,3 @@
 # react project
 
-#javaScript project
+# javaScript project
