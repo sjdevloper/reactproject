@@ -32,4 +32,6 @@ import axios from "axios";
 
 https://codesandbox.io/s/loaddata-axios-iifww3?file=/src/App.js
 
+https://codesandbox.io/s/loaddataonlick-axios-m0q3yr?file=/src/App.js
+
 
