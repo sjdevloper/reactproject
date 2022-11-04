@@ -1,6 +1,6 @@
-# This is management system application for management products and user information. 
-## Customers can add products to the cart and the total price can change consistently.
-## Manager(Admin) can list products and remove products, also remove users.
+## This is management system application for management products and user information. 
+- Customers can add products to the cart and the total price can change consistently.
+-  Manager(Admin) can list products and remove products, also remove users.
 ## I created three folds. One for server, which connects MongoDB, another two are Client and Admin, Admin is similar to client but different functiona.
 ## How to deploy?
 1. Download zip to local
