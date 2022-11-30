@@ -38,3 +38,16 @@
 -  Create new APP, add list of "Config Vars"
 - Install the Heroku CLI locally
 - Go to server fold.Run 'heroku login'
+- run "git init'
+- run ' heroku git:remote -a shop-server-new'
+- run 'git add .'
+- run 'git commit -am "make it better"
+- run 'git push heroku master'
+- go to client fold do same way as server fold
+- change .env file URL to https://xxxxxx.herokuapp.com under client fold
+- go to admin fold do same way as server fold
+- Open App by click the link
+
+6. heroku.com  no longer provide free deployment, so my app is not run online. You can git clone and run localy.
+
+
