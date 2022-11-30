@@ -50,4 +50,7 @@
 
 6. heroku.com  no longer provide free deployment, so my app is not run online. You can git clone and run localy.
 
+7. Demo
+![plot](.pic/admin.png)
+
 
