@@ -51,7 +51,8 @@
 6. heroku.com  no longer provide free deployment, so my app is not run online. You can git clone and run localy.
 
 7. Demo
-- <img src="./pic/adminpanel.png" width="20">
+- <img src="./pic/adminpanel.png" width="100">
+- <img src="./pic/react2022store.png" width="100">
 - ![plot](./pic/react2022store.png =50x50)
 - ![plot](./pic/adminpanel.png =50x50)
 
